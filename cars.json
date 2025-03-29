@@ -3,7 +3,6 @@
       "id": 1,
       "type": "Sedan",
       "fuel_type": "Gasoline/Diesel/Hybrid/Electric",
-      "seating_capacity": "4",
       "common_usage": "Daily commute, family car, business transport",
       "description": "A passenger car with a three-box configuration and separate compartments for engine, passengers, and cargo.",
       "image": "https://example.com/images/sedan.jpg"
@@ -12,7 +11,6 @@
       "id": 2,
       "type": "SUV",
       "fuel_type": "Gasoline/Diesel/Hybrid/Electric",
-      "seating_capacity": "5-7",
       "common_usage": "Family trips, off-road adventures, urban driving",
       "description": "A sports utility vehicle with higher ground clearance, off-road capability, and spacious interiors.",
       "image": "https://example.com/images/suv.jpg"
@@ -21,7 +19,6 @@
       "id": 3,
       "type": "Coupe",
       "fuel_type": "Gasoline/Electric",
-      "seating_capacity": "2-4",
       "common_usage": "Sporty driving, personal use",
       "description": "A two-door car with a sporty look, often with a sloping roofline.",
       "image": "https://example.com/images/coupe.jpg"
@@ -30,7 +27,6 @@
       "id": 4,
       "type": "Hatchback",
       "fuel_type": "Gasoline/Diesel/Hybrid/Electric",
-      "seating_capacity": "4-5",
       "common_usage": "City driving, compact and efficient travel",
       "description": "A small to mid-size car with a rear door that swings upward to provide access to the cargo area.",
       "image": "https://example.com/images/hatchback.jpg"
@@ -39,7 +35,6 @@
       "id": 5,
       "type": "Convertible",
       "fuel_type": "Gasoline/Electric",
-      "seating_capacity": "2-4",
       "common_usage": "Luxury driving, summer trips",
       "description": "A car with a roof that can be retracted or removed for an open-air driving experience.",
       "image": "https://example.com/images/convertible.jpg"
@@ -48,7 +43,6 @@
       "id": 6,
       "type": "Pickup Truck",
       "fuel_type": "Gasoline/Diesel/Electric",
-      "seating_capacity": "2-5",
       "common_usage": "Cargo transport, construction, off-road driving",
       "description": "A vehicle with a front cab and an open cargo area in the back, often used for hauling.",
       "image": "https://example.com/images/pickup-truck.jpg"
@@ -57,7 +51,6 @@
       "id": 7,
       "type": "Minivan",
       "fuel_type": "Gasoline/Hybrid/Electric",
-      "seating_capacity": "7-8",
       "common_usage": "Family transport, group travel",
       "description": "A family-oriented vehicle with sliding doors and spacious interiors, designed for comfort and practicality.",
       "image": "https://example.com/images/minivan.jpg"
@@ -66,7 +59,6 @@
       "id": 8,
       "type": "Wagon",
       "fuel_type": "Gasoline/Diesel/Hybrid/Electric",
-      "seating_capacity": "5-7",
       "common_usage": "Family travel, cargo transport",
       "description": "A vehicle similar to a sedan but with an extended rear cargo area, often featuring a hatch-style trunk.",
       "image": "https://example.com/images/wagon.jpg"
@@ -75,7 +67,6 @@
       "id": 9,
       "type": "Electric",
       "fuel_type": "Electric",
-      "seating_capacity": "2-7",
       "common_usage": "Eco-friendly transport, urban and highway driving",
       "description": "A vehicle powered by an electric motor and battery instead of a gasoline engine.",
       "image": "https://example.com/images/electric.jpg"
@@ -84,7 +75,6 @@
       "id": 10,
       "type": "Hybrid",
       "fuel_type": "Hybrid (Gasoline + Electric)",
-      "seating_capacity": "4-7",
       "common_usage": "Fuel-efficient daily driving, eco-friendly transport",
       "description": "A car that combines a gasoline engine with an electric motor for improved fuel efficiency.",
       "image": "https://example.com/images/hybrid.jpg"
